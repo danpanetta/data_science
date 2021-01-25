@@ -10,7 +10,7 @@
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [LinkedIn]( www.linkedin.com/in/danilo-panetta-de-faria)
+* [LinkedIn](www.linkedin.com/in/danilo-panetta-de-faria)
 * [Medium](https://www.medium.com)
 
 
