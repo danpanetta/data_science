@@ -11,7 +11,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danilo-panetta-de-faria)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@danpfaria)
 
 
 ## Projetos:
