@@ -15,9 +15,9 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Veja os trabalhos publicados:
 
-* ...
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
 
 ---
 
