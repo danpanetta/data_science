@@ -6,7 +6,9 @@
 *Data scientist com formação em engenharia de transportes*
 
 <sub> * Formado em engenharia civil na UFSC </sub>
+
 <sub> * Mestrando em engenharia de transportes na UFSC</sub>
+
 <sub> * Experiêcia em projetos de eng. de transportes</sub>
 
 
