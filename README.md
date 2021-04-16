@@ -7,7 +7,7 @@
 
 (...).
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, SQL, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danilo-panetta-de-faria)
