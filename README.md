@@ -3,11 +3,16 @@
 </p>
 
 # Danilo Panetta de Faria
-<sub>*Data Scientist specialized in transport projects*</sub>
+<sub>*Data scientist com formação em engenharia de transportes*</sub>
 
 (...).
 
-**Background in:** Python, SQL, Machine Learning.
+**Conhecimento em:** 
+* Extração e limpeza de dados
+* Análise exploratória de dados
+* Linguagens de programação: Python e SQL
+* Machine Learning
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danilo-panetta-de-faria)
