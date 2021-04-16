@@ -4,6 +4,7 @@
 
 # Danilo Panetta de Faria
 *Data scientist com formação em engenharia de transportes*
+<sub> a </sub>
 
 
 **Conhecimento em:** 
