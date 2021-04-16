@@ -11,7 +11,7 @@
 
 <sub> * Experiêcia em projetos de eng. de transportes</sub>
 
-<sub> * Cursos de Data Science realizados em plataformas como Coursera, Datacamp, Udemy e Sigmoidal<br></sub>
+<sub> * Cursos de Data Science realizados em plataformas como Coursera, Datacamp, Udemy e Sigmoidal<br><br></sub>
 
 
 
