@@ -18,7 +18,7 @@
 **Conhecimento em:** 
 * Extração e limpeza de dados
 * Análise exploratória de dados
-* Linguagens de programação: Python e SQL
+* Linguagens de programação: Python, R e SQL
 * Machine Learning
 
 
