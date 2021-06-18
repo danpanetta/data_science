@@ -31,12 +31,14 @@
 Veja os trabalhos publicados:
 
 * **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+
+Projetos realizados pela plataforma **DataCamp**:
 * **TV, Halftime Shows, and the Big Game:** https://bit.ly/2TE0TUt
-* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
-* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
-* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
-* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
-* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+* **The Android App Market on Google Play:** https://bit.ly/3qc7rWv
+* **The GitHub History of the Scala Language:** https://bit.ly/3zx8k0l
+* **A Visual History of Nobel Prize Winners:** https://bit.ly/2UiMFJ1
+* **Dr. Semmelweis and the Discovery of Handwashing:** https://bit.ly/3vI9fHP
+* **Predicting Credit Card Approvals:** https://bit.ly/35zmHmV
 ---
 
 
