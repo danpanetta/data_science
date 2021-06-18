@@ -31,7 +31,12 @@
 Veja os trabalhos publicados:
 
 * **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
-
+* **TV, Halftime Shows, and the Big Game:** https://bit.ly/2TE0TUt
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
+* **Analyzing Airbnb Data - Dublin:** https://bit.ly/2OGpjKF
 ---
 
 
